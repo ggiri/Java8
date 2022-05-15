@@ -12,6 +12,7 @@ public class CalculatorImpl {
 //        };
 //        calc.printValue(1234);
 //        Calculator calc = ( i1,  i2) -> i1+i2;
+        //method reference example
         Calculator calc = Integer::sum;
         System.out.println("Sum:"+calc.sum(1,2));
     }
