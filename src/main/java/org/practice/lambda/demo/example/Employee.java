@@ -1,4 +1,4 @@
-package org.practice.stream.foreach.example;
+package org.practice.lambda.demo.example;
 
 public class Employee {
     private int id;

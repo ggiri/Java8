@@ -1,4 +1,4 @@
-package org.practice.stream.foreach.example;
+package org.practice.lambda.demo.example;
 
 import java.util.List;
 import java.util.stream.Collectors;
