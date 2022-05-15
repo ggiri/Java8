@@ -54,7 +54,7 @@ public class ConsumerDemo {
         newList.add(6);
 
         try{
-            modify.andThen(display).accept(newList);
+            multiply.andThen(display).accept(newList);
         }catch(Exception e){
             System.out.println("Exception: " +e);
         }
