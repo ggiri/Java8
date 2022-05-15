@@ -1,4 +1,4 @@
-package org.practice.lambda.demo.example;
+package org.practice.stream.filter;
 
 import java.util.List;
 import java.util.stream.Collectors;

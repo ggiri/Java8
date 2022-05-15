@@ -1,4 +1,4 @@
-package org.practice.lambda.demo.example;
+package org.practice.stream.filter;
 
 public class Employee {
     private int id;
