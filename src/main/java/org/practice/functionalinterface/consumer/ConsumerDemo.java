@@ -18,7 +18,7 @@ public class ConsumerDemo {
 
        List<Integer> l = Arrays.asList(1,2,3,4,5);
 
-       l.stream().forEach(consumer);
+       l.forEach(consumer);
 
         // Consumer to multiply 2 to every integer of a list
         Consumer<List<Integer> > modify = list -> list.replaceAll(integer -> 2 * integer);
